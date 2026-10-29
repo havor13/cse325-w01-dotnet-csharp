@@ -6,6 +6,7 @@
     <RootNamespace>Module5_Files</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <UseAppHost>false</UseAppHost>
   </PropertyGroup>
 
 </Project>
